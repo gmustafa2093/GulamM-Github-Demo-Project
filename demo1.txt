@@ -1,0 +1,2 @@
+Addition : x=y
+Substraction : x-y //Sub functionality added to Demo1.txt
